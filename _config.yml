@@ -13,7 +13,7 @@ title            : "Di Wu / Academic Homepage"
 title_separator  : "-"
 name             : &name "Di Wu"
 description      : &description "Academic portfolio of Di Wu, Ph.D. student at SCIR, Harbin Institute of Technology." 
-url              : "https://[你的GitHub用户名].github.io" # 【需要修改】把方括号及里面的内容替换为你的实际 GitHub 用户名
+url              : "https://pikepokenew.github.io/.github.io/" # 【需要修改】把方括号及里面的内容替换为你的实际 GitHub 用户名
 baseurl          : "" # the subpath of your site, e.g. "/blog"
 repository       : "https://github.com/pikepokenew" # 【需要修改】替换为你的 GitHub 用户名
 
